@@ -8,7 +8,8 @@
 namespace Deliverable__5__Methods_Myrtil_Elieser
 {
     internal class Program
-    {//Helps declare and randomize the array and work with the input that the user will be putting in
+    {
+        //Helps declare and randomize the array and work with the input that the user will be putting in
         static int[] random_array(int array_len)
         {
             Random random = new Random();
